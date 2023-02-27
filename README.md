@@ -18,8 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dua shaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dua shaikh" height="30" width="40" /></a>
-<a href="https://fb.com/duaa shaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="duaa shaikh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dua-shaikh-8a704a259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dua shaikh" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100076445298370" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="duaa shaikh" height="30" width="40" /></a>
 <a href="https://instagram.com/_minahil__irfan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_minahil__irfan_" height="30" width="40" /></a>
 </p>
 
