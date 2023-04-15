@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://www.facebook.com/profile.php?id=100076445298370](https://www.facebook.com/profile.php?id=100076445298370)
-
 - 💬 Ask me about **Html5, CSS3, Javascript, Bootstrap**
 
 - 📫 How to reach me **duashaikh603@gmail.com**
