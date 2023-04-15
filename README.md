@@ -1,4 +1,6 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+<p align="center">
+<a href ="https://github.com/tayyaba-ali"><img src="https://media2.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif?cid=ecf05e474bjrlcjt6yc7w0t20djokbtl9i4e9iqkie9anv8i&amp;rid=giphy.gif&amp;ct=s" alt="Coding Software Developer Sticker by Boolean Careers" style="width: 350px; height: 250px; left: 0px; top: 0px;"></a>&nbsp
+</p>
 <h1 align="center">Hi 👋, I'm Minahil Irfan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/tayyaba-ali/tayyaba-ali/main/ff.png">
