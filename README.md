@@ -1,31 +1,133 @@
-<p align="center">
-<a href ="https://github.com/tayyaba-ali"><img src="https://media2.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif?cid=ecf05e474bjrlcjt6yc7w0t20djokbtl9i4e9iqkie9anv8i&amp;rid=giphy.gif&amp;ct=s" alt="Coding Software Developer Sticker by Boolean Careers" style="width: 350px; height: 250px; left: 0px; top: 0px;"></a>&nbsp
-</p>
-<h1 align="center">Hi 👋, I'm Minahil Irfan</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<div align="center">
+
+<img src="https://media2.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif?cid=ecf05e474bjrlcjt6yc7w0t20djokbtl9i4e9iqkie9anv8i&rid=giphy.gif&ct=s" width="300"/>
+
+# Hi 👋, I'm Minahil Irfan
+
+### 🚀 Tech Lead @ Saylani Mass IT (SMIT) | MERN Stack Developer | Technical Trainer
+
+<img src="https://komarev.com/ghpvc/?username=minahilirfan26&label=Profile%20Views&color=blueviolet&style=flat-square" />
+
+</div>
+
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/tayyaba-ali/tayyaba-ali/main/ff.png">
 
+## 💫 About Me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=minahilirfan26&label=Profile%20views&color=0e75b6&style=flat" alt="minahilirfan26" /> </p>
+I'm a passionate **MERN Stack Developer** and **Tech Lead at Saylani Mass IT (SMIT)** with expertise in developing modern, responsive, and scalable web applications.
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+Along with software development, I love mentoring aspiring developers through **online and onsite training**, helping students build strong technical skills and real-world projects.
 
-- 🌱 I’m currently learning **Web Development**
+- 🚀 Tech Lead at **Saylani Mass IT (SMIT)**
+- 💻 MERN Stack Developer
+- 👩‍🏫 Technical Trainer (Online & Onsite)
+- 🌱 Currently learning **Power BI**
+- 💬 Ask me about **JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, MongoDB, JWT, REST APIs, Git, GitHub & WordPress**
+- 🎨 Illustrator & Canva Designer
+- 🌍 Based in Karachi, Pakistan
 
-- 💬 Ask me about **Html5, CSS3, Javascript, Bootstrap**
+---
 
-- 📫 How to reach me **duashaikh603@gmail.com**
+## 🌐 Portfolio
 
-<h3 align="left">Connect with me:</h3>
+🔗 **Portfolio:**  
+https://manahilirfan.netlify.app/
+
+---
+
+## 📫 Connect With Me
+
 <p align="left">
-<a href="https://www.linkedin.com/in/dua-shaikh-8a704a259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dua shaikh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/minahil-irfan-shaikh" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="https://youtube.com/@minahilirfan962" target="_blank">
+<img src="https://skillicons.dev/icons?i=youtube" height="45"/>
+</a>
+
+<a href="https://github.com/minahilirfan26" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+<a href="mailto:duashaikh603@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minahilirfan26&show_icons=true&locale=en&layout=compact" alt="minahilirfan26" /></p>
+# 💻 Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minahilirfan26&show_icons=true&locale=en" alt="minahilirfan26" /></p>
+### Languages
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minahilirfan26&" alt="minahilirfan26" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,wordpress" />
+</p>
+
+### Design
+
+<p>
+<img src="https://skillicons.dev/icons?i=ai,ps,figma" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=minahilirfan26&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minahilirfan26&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=minahilirfan26&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=minahilirfan26&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
+</p>
+
+---
+
+## ✨ Quote
+
+> **"Code. Teach. Inspire. Repeat."** 🚀
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+</div>
