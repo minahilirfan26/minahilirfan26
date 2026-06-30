@@ -10,8 +10,6 @@
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/tayyaba-ali/tayyaba-ali/main/ff.png">
-
 ## 💫 About Me
 
 I'm a passionate **MERN Stack Developer** and **Tech Lead at Saylani Mass IT (SMIT)** with expertise in developing modern, responsive, and scalable web applications.
@@ -43,7 +41,7 @@ https://manahilirfan.netlify.app/
 </a>
 
 <a href="https://youtube.com/@minahilirfan962" target="_blank">
-<img src="https://skillicons.dev/icons?i=youtube" height="45"/>
+<img src="[https://skillicons.dev/icons?i=youtube](https://cdn.simpleicons.org/youtube/FF0000)" height="45"/>
 </a>
 
 <a href="https://github.com/minahilirfan26" target="_blank">
