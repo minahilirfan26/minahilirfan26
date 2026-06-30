@@ -41,7 +41,7 @@ https://manahilirfan.netlify.app/
 </a>
 
 <a href="https://youtube.com/@minahilirfan962" target="_blank">
-<img src="[https://skillicons.dev/icons?i=youtube](https://cdn.simpleicons.org/youtube/FF0000)" height="45"/>
+<img src="https://cdn.simpleicons.org/youtube/FF0000" height="45"/>
 </a>
 
 <a href="https://github.com/minahilirfan26" target="_blank">
