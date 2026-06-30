@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media2.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif?cid=ecf05e474bjrlcjt6yc7w0t20djokbtl9i4e9iqkie9anv8i&rid=giphy.gif&ct=s" width="300"/>
+<img src="[https://media2.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif?cid=ecf05e474bjrlcjt6yc7w0t20djokbtl9i4e9iqkie9anv8i&rid=giphy.gif&ct=s](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWFtMWxzczhncGo4cTEzNHQzamgyaTdwZmR0YW53cHNqMTEwcjYzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s8UHGqq9xqJmwZZtHn/giphy.gif)" width="300"/>
 
 # Hi 👋, I'm Minahil Irfan
 
